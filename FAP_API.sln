@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FAP_API", "FAP_API.csproj", "{27807358-3E08-4DEE-9305-D9F9803B6318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27807358-3E08-4DEE-9305-D9F9803B6318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27807358-3E08-4DEE-9305-D9F9803B6318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27807358-3E08-4DEE-9305-D9F9803B6318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27807358-3E08-4DEE-9305-D9F9803B6318}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24E20726-A2FD-42DD-A756-9D8B6A999772}
+	EndGlobalSection
+EndGlobal
